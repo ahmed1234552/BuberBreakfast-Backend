@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<!-- class library -->
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <!-- if u have'nt define an object can be null, it can't be null -->
+  </PropertyGroup>
+
+</Project>
