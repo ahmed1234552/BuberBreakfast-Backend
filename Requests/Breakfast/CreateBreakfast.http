@@ -2,7 +2,7 @@ POST http://localhost:5299/breakfasts
 Content-Type: application / json
 
 {
-    "name": "Bacon and eggs",
+    "name": "Bacon and eggs3",
     "description": "Bacon and eggs with toast",
     "startDateTime": "2017-01-01T08:00:00",
     "endDateTime": "2017-01-01T09:00:00",
@@ -16,3 +16,6 @@ Content-Type: application / json
         "butter"
     ]
 }
+
+### to add other requests
+GET https://localhost:7242/breakfasts/508e823b-dfa6-48f8-986c-22c59902e24e

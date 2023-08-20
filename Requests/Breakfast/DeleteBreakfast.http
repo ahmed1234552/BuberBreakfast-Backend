@@ -1,3 +1,3 @@
-@id=00000000-0000-0000-0000-000000000000
+@id=ad2edaa9-ecab-4aa3-9169-bfc82d543605
 
 DELETE  http://localhost:5299/breakfasts/{{id}}
