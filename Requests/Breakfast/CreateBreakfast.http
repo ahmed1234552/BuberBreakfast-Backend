@@ -1,0 +1,18 @@
+POST http://localhost:5299/breakfasts
+Content-Type: application / json
+
+{
+    "name": "Bacon and eggs",
+    "description": "Bacon and eggs with toast",
+    "startDateTime": "2017-01-01T08:00:00",
+    "endDateTime": "2017-01-01T09:00:00",
+    "savory":[
+        "bacon",
+        "eggs",
+        "toast"
+    ],
+    "Sweet":[
+        "jam",
+        "butter"
+    ]
+}

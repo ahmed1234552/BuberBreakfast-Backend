@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pkgRj00O4ixf/yBETUtJs5Dn5cVon3i1ietnCX7+cTsHiqnQ1YavTC7uduc0/6t10ncMuXuoLrIBFjp3hcbfbw==",
+  "dgSpecHash": "okDxlOf8SPMzngyRIqMB7bGivHYbrMR3HPDD7+dsTA2V61Z86UKm4A/NX9bLA7B+aLy2nUd7UTco7iAGMLRFhw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ahmed\\Desktop\\productivity\\.Net\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\Ahmed\\Desktop\\productivity\\BuberBreakfast\\BuberBreakfast-Backend\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

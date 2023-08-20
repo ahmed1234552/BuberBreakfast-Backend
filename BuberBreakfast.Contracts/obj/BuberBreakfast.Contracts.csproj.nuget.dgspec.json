@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ahmed\\Desktop\\productivity\\.Net\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
+    "C:\\Users\\Ahmed\\Desktop\\productivity\\BuberBreakfast\\BuberBreakfast-Backend\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ahmed\\Desktop\\productivity\\.Net\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
+    "C:\\Users\\Ahmed\\Desktop\\productivity\\BuberBreakfast\\BuberBreakfast-Backend\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ahmed\\Desktop\\productivity\\.Net\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmed\\Desktop\\productivity\\BuberBreakfast\\BuberBreakfast-Backend\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "projectName": "BuberBreakfast.Contracts",
-        "projectPath": "C:\\Users\\Ahmed\\Desktop\\productivity\\.Net\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+        "projectPath": "C:\\Users\\Ahmed\\Desktop\\productivity\\BuberBreakfast\\BuberBreakfast-Backend\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
         "packagesPath": "C:\\Users\\Ahmed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ahmed\\Desktop\\productivity\\.Net\\BuberBreakfast\\BuberBreakfast.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Ahmed\\Desktop\\productivity\\BuberBreakfast\\BuberBreakfast-Backend\\BuberBreakfast.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config"
